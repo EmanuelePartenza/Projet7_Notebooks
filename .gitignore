@@ -1,0 +1,5 @@
+.ipynb_checkpoints/*
+__pycache__/*
+input_datasets/*
+mlruns/*
+output_datasets/*
