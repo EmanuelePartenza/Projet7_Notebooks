@@ -4,3 +4,5 @@ input_datasets/*
 mlruns/*
 output_datasets/*
 Execution_model_time/*
+P7_1_notebook.ipynb
+P7_2_notebook.ipynb
